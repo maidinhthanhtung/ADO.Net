@@ -1,0 +1,30 @@
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+D:\ITMO\Сем 8\Создание ПО\ADO.NET\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\Admin\Desktop\ADO.NET-main\ADO.NET-main\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\Admin\Desktop\lab_4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
